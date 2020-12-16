@@ -28,9 +28,9 @@ Modules:
 
 ## Usage of Software
 
-* librarySearch Software is developed as a command line utility which takes 2 parameter:
- - ./librarySearch -index "_path_to_library_"
- - ./librarySearch -search "_some_word_"
+* librarySearch Software is developed as a command line utility which takes 2 parameters:
+ -- ./librarySearch -index "_path_to_library_"
+ -- ./librarySearch -search "_some_word_"
 
 binaries for librarySearch and librarySearchTest can be found in "binaries" folder.
 
